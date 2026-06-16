@@ -37,8 +37,9 @@ This organisation provides repositories used by students and staff on the MRes S
 | Repository | Description |
 |-----------|-------------|
 | 📘 [**Getting-Started**](https://github.com/MRes-Scientific-Diving-UoP/Getting-Started) | SSH setup, creating your first repo, the tidy-R project layout, workflows, and templates |
-| 🔬 *Student project repos* | Individual dissertation repositories |
-| 📊 *Shared resources* | Shared datasets, scripts, and reference materials |
+| 🧪 [**project-template**](https://github.com/MRes-Scientific-Diving-UoP/project-template) | Starter layout for a dissertation project — click *"Use this template"* to begin |
+| 📊 [**shared-resources**](https://github.com/MRes-Scientific-Diving-UoP/shared-resources) | Shared datasets, scripts, and species-ID references |
+| 🔬 *Student project repos* | Individual dissertation repositories — one per student |
 
 > **New students:** start with [Getting-Started](https://github.com/MRes-Scientific-Diving-UoP/Getting-Started). It walks you through [setting up SSH](https://github.com/MRes-Scientific-Diving-UoP/Getting-Started/blob/main/guides/01-ssh-setup.md), [creating your first repository](https://github.com/MRes-Scientific-Diving-UoP/Getting-Started/blob/main/guides/02-create-your-first-repo.md), and [structuring it the tidy-R way](https://github.com/MRes-Scientific-Diving-UoP/Getting-Started/blob/main/guides/03-tidy-r-project-structure.md).
 
