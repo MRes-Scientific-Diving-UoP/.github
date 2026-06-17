@@ -30,4 +30,5 @@ repo — click *"Use this template"*.
 ## Getting help
 
 Open an issue using one of the templates (supervision update / analysis help),
-or email the programme team for anything personal or admin-related.
+or email **Dr Fabio Favoretto** ([fabio.favoretto@plymouth.ac.uk](mailto:fabio.favoretto@plymouth.ac.uk))
+for anything personal or admin-related.

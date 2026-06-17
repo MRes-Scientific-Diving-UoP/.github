@@ -36,17 +36,17 @@ This organisation provides repositories used by students and staff on the MRes S
 
 ## Data Coordination
 
-| Name | Role |
-|------|------|
-| **Dr Fabio Favoretto** | Data coordinator (lead) |
-| Dr Keiron Fraser | Data coordination |
-| Dr Fran Hockley | Data coordination |
-| Dr Aaron Jessop | Data coordination |
+| Name |
+|------|
+| Dr Fabio Favoretto |
+| Dr Keiron Fraser |
+| Dr Fran Hockley |
+| Dr Aaron Jessop |
 
 ## Connect
 
 [![University of Plymouth](https://img.shields.io/badge/University%20of%20Plymouth-Website-0c2340?style=for-the-badge&logo=google-earth&logoColor=white)](https://www.plymouth.ac.uk)
-[![Email](https://img.shields.io/badge/Contact-Programme%20Team-4ecdc4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:keiron.fraser@plymouth.ac.uk)
+[![Email](https://img.shields.io/badge/Contact-Dr%20Fabio%20Favoretto-4ecdc4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:fabio.favoretto@plymouth.ac.uk)
 
 ---
 
