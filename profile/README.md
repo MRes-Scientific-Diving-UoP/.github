@@ -21,15 +21,6 @@ The **MRes Scientific Diving** at the **University of Plymouth** combines profes
 
 Based at **Coxside Marine Station** in Plymouth, students complete taught modules, a field course, and a 9-month dissertation with external partners.
 
-## Programme Structure
-
-| Module | Code | Credits | Focus |
-|--------|------|---------|-------|
-| **Scientific Diving Theory & Practice** | SCIDIV5003 | 30 | HSE SCUBA, underwater photography, survey methods |
-| **Scientific Diving Research Skills** | SCIDIV5002 | 20 | Statistics, species ID, expedition planning |
-| **Scientific Diving Field Course** | SCIDIV5001 | 10 | Research expedition to Nusa Penida, Bali |
-| **Dissertation Project** | SCIDIV5000 | 120 | 9-month research project with external partner |
-
 ## About this GitHub Organisation
 
 This organisation provides repositories used by students and staff on the MRes Scientific Diving programme.
@@ -43,17 +34,14 @@ This organisation provides repositories used by students and staff on the MRes S
 
 > **New students:** start with [Getting-Started](https://github.com/MRes-Scientific-Diving-UoP/Getting-Started). It walks you through [setting up SSH](https://github.com/MRes-Scientific-Diving-UoP/Getting-Started/blob/main/guides/01-ssh-setup.md), [creating your first repository](https://github.com/MRes-Scientific-Diving-UoP/Getting-Started/blob/main/guides/02-create-your-first-repo.md), and [structuring it the tidy-R way](https://github.com/MRes-Scientific-Diving-UoP/Getting-Started/blob/main/guides/03-tidy-r-project-structure.md).
 
-## Programme Team
+## Data Coordination
 
-| Name |
-|------|
-| Dr Keiron Fraser |
-| Dr Fabio Favoretto |
-| Dr Fran Hockley |
-| Dr Dan Struthers |
-| Dr Aaron Jessop |
-| Prof. Richard Preziosi |
-| Prof. Abigail McQuatters-Gollop |
+| Name | Role |
+|------|------|
+| **Dr Fabio Favoretto** | Data coordinator (lead) |
+| Dr Keiron Fraser | Data coordination |
+| Dr Fran Hockley | Data coordination |
+| Dr Aaron Jessop | Data coordination |
 
 ## Connect
 
